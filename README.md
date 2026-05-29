@@ -3,7 +3,7 @@ AI-assisted workflow system for leasehold arrears triage and credit control chec
 
 ## Live Prototype
 
-[View Prototype Here](silly-alfajores-0d7eca.netlify.app)
+[View Prototype Here](https://leaseholdarrearstriageengine.netlify.app/)
 
 ## Overview
 A working tool that runs a portfolio of accounts through a ten-gate decision engine grounded in UK credit control rules, and tells you exactly what to do with each one.
